@@ -1,5 +1,5 @@
 import streamlit as st
-# from st_clickable_images import clickable_images
+from st_clickable_images import clickable_images
 import pandas as pd
 from pytube import YouTube
 import os
